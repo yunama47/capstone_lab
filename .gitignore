@@ -1,7 +1,2 @@
 __pycache__
-Datasets
-chrome_driver
-output_files
-*.png
-*.jpg
-*.jpeg
+*.zip
